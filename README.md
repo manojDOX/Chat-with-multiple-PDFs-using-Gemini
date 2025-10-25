@@ -6,6 +6,9 @@ This project is a web application built with Streamlit that allows you to chat w
 
 Users can upload their PDF files, process them to create a searchable vector knowledge base, and then ask questions in natural language. The application will find the most relevant information from the documents and generate a detailed answer based *only* on the provided context.
 
+
+[![Watch the video demo](https://github.com/user-attachments/assets/9b8d82e9-dd53-41c1-b380-df1dc158c5a0)](https://drive.google.com/file/d/13NgPCU6ZzaxyhY_yoNxWlofgiG46EUXj/view?usp=sharing)
+
 ## 2. Code Flow (Flowchart)
 
 Here is the step-by-step workflow of the application:
