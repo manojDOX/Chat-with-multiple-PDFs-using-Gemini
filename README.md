@@ -92,8 +92,8 @@ Follow these steps to get the application running on your local machine.
 
 1.  **Clone the Repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone [https://github.com/manojDOX/Chat-with-multiple-PDFs-using-Gemini](https://github.com/manojDOX/Chat-with-multiple-PDFs-using-Gemini)
+    cd Chat-with-multiple-PDFs-using-Gemini
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
