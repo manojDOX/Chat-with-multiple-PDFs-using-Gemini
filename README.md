@@ -4,6 +4,8 @@
 
 This project is a web application built with Streamlit that allows you to chat with one or more PDF documents. It uses Google's Gemini models (`gemini-2.5-flash` and `text-embedding-004`) and the LangChain framework to create a Retrieval-Augmented Generation (RAG) pipeline.
 
+<a href="https://chat-with-multiple-pdfs-using-gemini-4rq34pd9uzxjzptmiabmwz.streamlit.app/">Chat-with-multiple-PDFs-using-Gemini website</a>
+
 Users can upload their PDF files, process them to create a searchable vector knowledge base, and then ask questions in natural language. The application will find the most relevant information from the documents and generate a detailed answer based *only* on the provided context.
 
 
