@@ -111,7 +111,7 @@ def extract_text_from(pdf_docs):
 # -------------------------------------------------------------------------
 # ✅ Text Chunking with metadata preservation
 # -------------------------------------------------------------------------
-def text_chunk(documents, chunk_size=1000, chunk_overlap=400):
+def text_chunk(documents, chunk_size=7000, chunk_overlap=1000):
     """
     Split PDF pages into chunks while preserving metadata.
     Returns list of Document objects with source and page info.
@@ -407,4 +407,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
